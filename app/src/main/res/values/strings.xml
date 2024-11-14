@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AllergyOutlookChart</string>
+    <string name="txt_extreme">Extreme</string>
+    <string name="txt_very_high">Very High</string>
+    <string name="txt_high">High</string>
+    <string name="txt_moderate">Moderate</string>
+    <string name="txt_low">Low</string>
+    <string name="txt_empty" />
+</resources>
